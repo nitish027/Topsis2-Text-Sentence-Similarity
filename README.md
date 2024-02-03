@@ -1,4 +1,4 @@
-# Topsis-Text-Sentence-Similarity(102117203)
+# Topsis2-Text-Sentence-Similarity(102117203)
 
   <img width="851" alt="result_final" src="https://github.com/RupinderRana/Topsis-Text-Sentence-Similarity/assets/98392235/3837161f-71fb-4fef-a2f4-cd620119d1f3">
 
